@@ -1,5 +1,6 @@
 package com.thoughtworks;
 
-public interface DeviceController {
+public interface Command {
     void execute();
+    void undo();
 }

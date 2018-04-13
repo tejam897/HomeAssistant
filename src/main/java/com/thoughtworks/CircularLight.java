@@ -1,6 +1,6 @@
 package com.thoughtworks;
 
-public class CircularLight {
+public class CircularLight implements Appliance {
     private boolean switchedOn;
 
     public CircularLight() {
