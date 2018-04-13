@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HomeAssistant.iml" filepath="$PROJECT_DIR$/HomeAssistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeAssistant_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeAssistant_main.iml" group="HomeAssistant" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HomeAssistant_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HomeAssistant_test.iml" group="HomeAssistant" />
+    </modules>
+  </component>
+</project>
